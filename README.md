@@ -15,8 +15,8 @@ Graduado en Tecnología Digital y Multimedia (UPV), con un TFG sobre IA generati
 ## Ahora
 
 - 💼 Trainee de Product & Tech en **Rankia**: aplicaciones web internas, servicios de backend y herramientas de IA generativa.
-- 🎓 **TFG**: generación de contenido multimodal (imagen, gráficos, audio, vídeo y transcripciones) con modelos open source autoalojados.
 - 🌍 Parte del Máster en Inteligencia Artificial de la **Università di Bologna** cursada como Erasmus+.
+- 🎓 **TFG**: generación de contenido multimodal (imagen, gráficos, audio, vídeo y transcripciones) con modelos open source autoalojados.
 
 ## Stack
 
